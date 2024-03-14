@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>mingw</id>
+    <version>12.2.0</version>
+    <title>MinGW-w64</title>
+    <authors>The MinGW-w64 Project</authors>
+    <owners>xoviat</owners>
+    <projectUrl>http://mingw-w64.org/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mingw-w64 is an advancement of the original mingw.org project, created to support the GCC compiler on Windows systems. It has forked it in 2007 in order to provide support for 64 bits and new APIs. It has since then gained widespread use and distribution.</description>
+    <summary>GCC for Windows 64 &amp; 32 bits.</summary>
+    <tags>compiler gcc mingw mingw-w64</tags>
+    <packageSourceUrl>https://bitbucket.org/xoviat/chocolatey-packages</packageSourceUrl>
+  </metadata>
+</package>

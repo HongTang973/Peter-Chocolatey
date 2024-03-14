@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\make\make.nupkg" checksum="47B6895C6E179636C3F6C05D0F5E6485" />
+    <file path="C:\ProgramData\chocolatey\lib\make\make.nuspec" checksum="1101123B2ED17FEBAA79588408B71CA7" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\LICENSE.txt" checksum="B542B92B594C88AE869B9A2F789E154E" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\VERIFICATION.txt" checksum="35515E2FDD29B9D4AEBC472F33A912DC" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\bin\make.exe" checksum="0EDD7FE1D2EC7CD6482057A9C6D9AA1A" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\include\gnumake.h" checksum="50A8B7F2AEA2DF14EEE5FC11D5516A87" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\lib\libgnumake-1.dll.a" checksum="5ED91400217F6A76F8B3BE4E512B706F" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\share\doc\make-4.3\NEWS" checksum="35CEC94D98C2C79EED31C507F4D63938" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\share\info\make.info" checksum="FD4697421B9877ED9ECB040DED07EE53" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\share\info\make.info-1" checksum="BA5CF1295BE02B198B2019C53D843F4A" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\share\info\make.info-2" checksum="B461FA9C10094BDA41BCE8FD9FF09C03" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\share\man\cat1\make.1" checksum="A2DFED898DBDDDC3742CB5B9D5D76B42" />
+    <file path="C:\ProgramData\chocolatey\lib\make\tools\install\share\man\man1\make.1" checksum="C3436E8AEF1AA259B3054636495BA3AD" />
+  </files>
+</fileSnapshot>

@@ -1,0 +1,7 @@
+# the matlib files
+*.mat
+*.dat
+
+# unwanted pdf and eps files
+*.eps
+*.pdf

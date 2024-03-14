@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>eigen</id>
+    <version>3.4.0</version>
+    <title>Eigen</title>
+    <authors>Benoît Jacob (founder), Gaël Guennebaud (guru)</authors>
+    <owners>lebarsfa</owners>
+    <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
+    <projectUrl>http://eigen.tuxfamily.org/index.php</projectUrl>
+    <iconUrl>https://cdn.statically.io/gh/lebarsfa/Packages/23ed816/choco/icons/Eigen_Silly_Professor_135x135.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Eigen provided for use in Windows projects.
+
+This package is inspired from https://github.com/nuclearsandwich/eigen-choco and https://github.com/ros2/choco-packages, with minor modifications and the addition of the unsupported Eigen files. It does not use the CMake-native installer from upstream which appears to rely on the `make` utility.
+
+Eigen is Free Software. Starting from the 3.1.1 version, it is licensed under the MPL2, which is a simple weak copyleft license. Common questions about the MPL2 are answered in the official MPL2 FAQ.
+Earlier versions were licensed under the LGPL3+.
+Note that currently, a few features rely on third-party code licensed under the LGPL: SimplicialCholesky, AMD ordering, and constrained_cg. Such features can be explicitly disabled by compiling with the EIGEN_MPL2_ONLY preprocessor symbol defined. Furthermore, Eigen provides interface classes for various third-party libraries (usually recognizable by the &lt;Eigen/*Support&gt; header name). Of course you have to mind the license of the so-included library when using them.
+Virtually any software may use Eigen. For example, closed-source software may use Eigen without having to disclose its own source code. Many proprietary and closed-source software projects are using Eigen right now, as well as many BSD-licensed projects.</description>
+    <summary>Eigen C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.</summary>
+    <releaseNotes>https://gitlab.com/libeigen/eigen/-/releases</releaseNotes>
+    <tags>eigen programming library C++ CPP</tags>
+    <projectSourceUrl>https://gitlab.com/libeigen/eigen</projectSourceUrl>
+    <packageSourceUrl>https://github.com/lebarsfa/eigen-choco</packageSourceUrl>
+  </metadata>
+</package>

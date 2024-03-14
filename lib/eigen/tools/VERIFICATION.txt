@@ -1,0 +1,6 @@
+﻿
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+This package is inspired from https://github.com/nuclearsandwich/eigen-choco and https://github.com/ros2/choco-packages, with minor modifications. The original source provided by the software authors is available on https://gitlab.com/libeigen/eigen/-/archive/3.4.0/eigen-3.4.0.zip. It can be checked e.g. using WinMerge that eigen\include\Eigen and eigen\include\unsupported from this package are identical to respective subfolders in eigen-3.4.0 from the software authors. The remaining files in eigen\share\cmake can be easily checked by opening them in a text editor (they set paths and version information for CMake).
